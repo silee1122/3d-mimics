@@ -1,6 +1,7 @@
 # 3d-mimics
 will be tested
-clone ÀÌ ¾î¶»°Ô »ç¿ëµÇ´Â°¡?8/22
+clone ì´ ì–´ë–»ê²Œ ì‚¬ìš©ë˜ëŠ”ê°€?8/22
 modified again on 8/22/17
-memo ¿¡¼­´Â ÆíÁı°¡´ÉÇÑ°¡?
+memo ì—ì„œëŠ” í¸ì§‘ê°€ëŠ¥í•œê°€?
 changed again 8/22
+3d-mimics/README.md
