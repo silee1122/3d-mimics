@@ -10,3 +10,4 @@ Git 디렉토리에 있는 파일들은 Committed 상태이다. 파일을 수정
 CLI command line interface
 http://rogerdudler.github.io/git-guide/index.ko.html
 https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+new computer home network. workgroup
