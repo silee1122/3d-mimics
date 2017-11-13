@@ -11,3 +11,5 @@ CLI command line interface
 http://rogerdudler.github.io/git-guide/index.ko.html
 https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 new computer home network. workgroup
+
+네트워크가안된다
