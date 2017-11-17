@@ -11,5 +11,30 @@ CLI command line interface
 http://rogerdudler.github.io/git-guide/index.ko.html
 https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 new computer home network. workgroup
-
 네트워크가안된다
+이더넷 어댑터 이더넷:
+
+   연결별 DNS 접미사. . . . : kornet
+   링크-로컬 IPv6 주소 . . . . : fe80::4011:c209:d014:ad26%15
+   IPv4 주소 . . . . . . . . . : 118.33.248.210
+   서브넷 마스크 . . . . . . . : 255.255.255.0
+   기본 게이트웨이 . . . . . . : 118.33.248.254
+
+무선 LAN 어댑터 로컬 영역 연결* 3:
+
+   미디어 상태 . . . . . . . . : 미디어 연결 끊김
+   연결별 DNS 접미사. . . . : 
+
+무선 LAN 어댑터 로컬 영역 연결* 4:
+
+   미디어 상태 . . . . . . . . : 미디어 연결 끊김
+   연결별 DNS 접미사. . . . : 
+
+무선 LAN 어댑터 Wi-Fi:
+
+   연결별 DNS 접미사. . . . : 
+   링크-로컬 IPv6 주소 . . . . : fe80::3c59:8be5:d6d4:371b%14
+   IPv4 주소 . . . . . . . . . : 172.30.1.34
+   서브넷 마스크 . . . . . . . : 255.255.255.0
+   기본 게이트웨이 . . . . . . : 172.30.1.254
+   
