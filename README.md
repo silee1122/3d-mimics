@@ -37,4 +37,5 @@ new computer home network. workgroup
    IPv4 주소 . . . . . . . . . : 172.30.1.34
    서브넷 마스크 . . . . . . . : 255.255.255.0
    기본 게이트웨이 . . . . . . : 172.30.1.254
-   11 26 chrome     setting changed 
+   11 26 chrome     setting changed   
+  can not write Hangul
