@@ -39,3 +39,4 @@ new computer home network. workgroup
    기본 게이트웨이 . . . . . . : 172.30.1.254
    11 26 chrome     setting changed   
   can not write Hangul
+   
